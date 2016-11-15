@@ -5,8 +5,8 @@ public class MovieDatabase {
 
     private static String DB_CONNECTION_URL = "jdbc:mysql://localhost:3306/";
     private static final String DB_NAME = "movies";
-    private static final String USER = "clara";
-    private static final String PASS = "mypass";   //todo change
+    private static final String USER = "pi6220na";
+    private static final String PASS = "password";   //todo change
 
     //todo grant permissions to your user for this table, for example
     //grant create, select, insert, update, drop, delete on movie_reviews to 'clara'@'localhost'
